@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rfessia/Monster-Rolodex/static/css/main.62118b21.chunk.css",
+    "main.js": "/rfessia/Monster-Rolodex/static/js/main.e40bbb7c.chunk.js",
+    "main.js.map": "/rfessia/Monster-Rolodex/static/js/main.e40bbb7c.chunk.js.map",
+    "runtime-main.js": "/rfessia/Monster-Rolodex/static/js/runtime-main.b97d3a2d.js",
+    "runtime-main.js.map": "/rfessia/Monster-Rolodex/static/js/runtime-main.b97d3a2d.js.map",
+    "static/js/2.73d70fc7.chunk.js": "/rfessia/Monster-Rolodex/static/js/2.73d70fc7.chunk.js",
+    "static/js/2.73d70fc7.chunk.js.map": "/rfessia/Monster-Rolodex/static/js/2.73d70fc7.chunk.js.map",
+    "index.html": "/rfessia/Monster-Rolodex/index.html",
+    "precache-manifest.3556d458078f56a9b61e00b2f1a387de.js": "/rfessia/Monster-Rolodex/precache-manifest.3556d458078f56a9b61e00b2f1a387de.js",
+    "service-worker.js": "/rfessia/Monster-Rolodex/service-worker.js",
+    "static/css/main.62118b21.chunk.css.map": "/rfessia/Monster-Rolodex/static/css/main.62118b21.chunk.css.map",
+    "static/js/2.73d70fc7.chunk.js.LICENSE.txt": "/rfessia/Monster-Rolodex/static/js/2.73d70fc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b97d3a2d.js",
+    "static/js/2.73d70fc7.chunk.js",
+    "static/css/main.62118b21.chunk.css",
+    "static/js/main.e40bbb7c.chunk.js"
+  ]
+}
